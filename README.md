@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on .. Open Source Projects
 - 📫 How to reach me 
--<a href="https://devziaus.xyz" target="_blank"><img align="left" alt="Devziaus's Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" /></a> 
+<a href="https://devziaus.xyz" target="_blank"><img align="left" alt="Devziaus's Website" width="22px" src="https://cdn-icons-png.flaticon.com/512/3308/3308395.png" /></a> 
 <a href="https://www.facebook.com/DevZiaus" target="_blank">facebook</a> 
 <a href="https://twitter.com/DevZiaus" target="_blank">Twitter</a> 
 <a href="https://www.linkedin.com/in/devziaus" target="_blank">Linkedin</a> 
