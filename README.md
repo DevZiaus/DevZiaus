@@ -12,7 +12,7 @@
 <a href="mailto:contact@devziaus.xyz" target="_blank">Email</a>
 - 🎯 Skills - [![My Skills](https://skills.thijs.gg/icons?i=nodejs,react,express,mongodb,js,html,css,bootstrap,tailwind,php,laravel)](https://skills.thijs.gg)
 
--📈 my github stats
+- 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devziaus&show_icons=true&theme=gotham" alt="devziaus" />
 
