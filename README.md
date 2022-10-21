@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/devziaus" target="_blank">Linkedin</a> 
 <a href="https://wa.me/message/KKFDKSU6GSCRJ1" target="_blank">Whatsapp</a> 
 <a href="mailto:contact@devziaus.xyz" target="_blank">Email</a>
+- Visitors ![](https://visitor-badge.glitch.me/badge?page_id=devziaus.devziaus)
 - 🎯 Skills - [![My Skills](https://skills.thijs.gg/icons?i=nodejs,react,express,mongodb,js,html,css,bootstrap,tailwind,php,laravel)](https://skills.thijs.gg)
 
 - 📈 my github stats
