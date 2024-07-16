@@ -11,8 +11,7 @@
 [![Whatsapp](icons/whatsapp.png)](https://wa.me/message/KKFDKSU6GSCRJ1) 
 [![Email](icons/email.png)](mailto:contact@devziaus.xyz)
 - 😍 Visitors ![](https://visitor-badge.glitch.me/badge?page_id=devziaus.devziaus)
-- 🎯 Skills - [![My Skills](https://skills.thijs.gg/icons?i=nodejs,react,express,mongodb,js,html,css,bootstrap,tailwind,php,laravel)](https://skills.thijs.gg)
-
+- 🎯 Skills - [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,git,laravel,mysql,js,html,CSS,linux,vscode)](https://skillicons.dev)
 - 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devziaus&show_icons=true&theme=gotham" alt="devziaus" />
