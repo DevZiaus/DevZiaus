@@ -14,7 +14,7 @@
 - 🎯 Skills - [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,git,laravel,mysql,js,html,CSS,linux,vscode)](https://skillicons.dev)
 - 📈 my github stats
 
-<p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?DevZiaus&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevZiaus)](https://git.io/streak-stats)
 
 <!---
 DevZiaus/DevZiaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
