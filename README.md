@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevZiaus
 - 👀 I’m interested in Web Programming
-- 📚 I'm Studying CS in UoPeople
+- 📚 B.Sc Computer Science
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on .. Open Source Projects
 - 📫 How to reach me [![Website](icons/website.png)](https://devziaus.xyz)
