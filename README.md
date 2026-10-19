@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DevZiaus
 - 👀 I’m interested in Web Programming
-- 📚 B.Sc Computer Science
-- 🌱 I’m currently learning MERN Stack
+- 📚 B.Sc in Computer Science
+- 🌱 I’m currently learning Full Stack Engineering
 - 💞️ I’m looking to collaborate on .. Open Source Projects
-- 📫 How to reach me [![Website](icons/website.png)](https://devziaus.xyz)
+- 📫 How to reach me [![Website](icons/website.png)](https://devziaus.tech)
 [![Facebook](icons/facebook.png)](https://www.facebook.com/DevZiaus) 
 [![Twitter](icons/twitter.png)](https://twitter.com/DevZiaus) 
 [![Instagram](icons/instagram.png)](https://www.instagram.com/devziaus)
