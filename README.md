@@ -14,7 +14,7 @@
 - 🎯 Skills - [![My Skills](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,git,laravel,mysql,js,html,CSS,linux,vscode)](https://skillicons.dev)
 - 📈 my github stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DevZiaus?cardType=level&theme=github-tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DevZiaus?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!---
 DevZiaus/DevZiaus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
